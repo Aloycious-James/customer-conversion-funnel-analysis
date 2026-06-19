@@ -262,6 +262,6 @@ customer-conversion-funnel-analysis
 
 # Author
 
-### James Aloycious
+### Aloycious James
 
 Data Analyst | SQL | PostgreSQL | Power BI | DAX | Python
